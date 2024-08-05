@@ -1,0 +1,12 @@
+
+.bannerImage {
+  height: 200px; 
+  width: 100%;
+  object-fit: cover; 
+}
+
+@media (max-width: 600px) {
+  .bannerImage {
+    height: 150px;
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Banner 1",
+    "description": "Description 1",
+    "cta": "Click Here",
+    "image": "/images/image1.jpg",
+    "background": "blue"
+  },
+  {
+    "id": 2,
+    "title": "Banner 2",
+    "description": "Description 2",
+    "cta": "Learn More",
+    "image": "/images/image2.jpg",
+    "background": "green"
+  },
+  {
+    "id": 3,
+    "title": "Banner 3",
+    "description": "Description 3",
+    "cta": "Buy Now",
+    "image": "/images/image3.jpg",
+    "background": "red"
+  },
+  {
+    "id": 4,
+    "title": "Banner 4",
+    "description": "Description 4",
+    "cta": "Join Us",
+    "image": "/images/image4.jpg",
+    "background": "yellow"
+  },
+  {
+    "id": 5,
+    "title": "Banner 5",
+    "description": "Description 5",
+    "cta": "Subscribe",
+    "image": "/images/image5.jpg",
+    "background": "purple"
+  },
+  {
+    "id": 6,
+    "title": "Banner 6",
+    "description": "Description 6",
+    "cta": "Read More",
+    "image": "/images/image6.jpg",
+    "background": "orange"
+  },
+  {
+    "id": 7,
+    "title": "Banner 7",
+    "description": "Description 7",
+    "cta": "Shop Now",
+    "image": "/images/image7.jpg",
+    "background": "pink"
+  },
+  {
+    "id": 8,
+    "title": "Banner 8",
+    "description": "Description 8",
+    "cta": "Get Started",
+    "image": "/images/image8.jpg",
+    "background": "cyan"
+  },
+  {
+    "id": 9,
+    "title": "Banner 9",
+    "description": "Description 9",
+    "cta": "Sign Up",
+    "image": "/images/image9.jpg",
+    "background": "magenta"
+  },
+  {
+    "id": 10,
+    "title": "Banner 10",
+    "description": "Description 10",
+    "cta": "Discover",
+    "image": "/images/image10.jpg",
+    "background": "lime"
+  }
+]
